@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [ASP.Net Mvc](https://github.com/ecexakin/Asp.Net-Mvc5)
 
-- 🌱 I’m currently learning **C#, JavaScript , Java**
+- 🌱 I’m currently learning **C#, Java**
 
 - 📫 How to reach me **akinecee3535@hotmail.com**
 
