@@ -5,9 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eceakin&label=Profile%20views&color=0e75b6&style=flat" alt="eceakin" /> </p>
 
-- 🔭 I’m currently working on [ASP.Net Mvc](https://github.com/eceakin/Asp.Net-Mvc5)
 
-- 🌱 I’m currently learning **C#, Java**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **akinecee3535@hotmail.com**
 
