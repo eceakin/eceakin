@@ -18,7 +18,6 @@
 - 🎓 Final-year **Computer Engineering** student at **İzmir Katip Çelebi University**
 - 💼 Previously a **software engineering intern at BMC Automotive**, working with **SAP ABAP**
 - 🎯 Building a career in the **SAP ecosystem**: modern ABAP, **ABAP Cloud**, **RAP**, **SAP BTP**, **Fiori** and **S/4HANA** with a Clean Core mindset
-- 🛠️ Currently building my graduation project: a **Warranty Claim Lifecycle Management** app with ABAP Cloud, RAP and Fiori elements
 - 🧱 I enjoy backend development and software architecture: layered, hexagonal and Clean Architecture, REST APIs, CQRS
 - 🤖 I also work on AI/ML projects, from metaheuristics and NLP to deep learning and LLM integrations
 
