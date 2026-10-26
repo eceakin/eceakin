@@ -155,6 +155,8 @@
 ### 🤝 Connect
 
 <p>
+  <a href="https://www.linkedin.com/in/eceakin"><img src="https://img.shields.io/badge/LinkedIn-eceakin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:akinecee3535@hotmail.com"><img src="https://img.shields.io/badge/Email-akinecee3535%40hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/eceakin"><img src="https://img.shields.io/badge/GitHub-eceakin-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
 </p>
 
